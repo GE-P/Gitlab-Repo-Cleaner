@@ -1,4 +1,4 @@
-# Repo_Cleaner_V0.1
+# Gitlab Repo Cleaner
 
 - This script is a console gui for filter-repo. Easy to use, taking the repo url only + a working directory.
 
